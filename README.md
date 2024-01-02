@@ -1,4 +1,4 @@
-## Olá pessoal, sejam bem vindos ao meu GitHub 👋
+[## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 Meu nome é Célio Nora Junior, Sou Técnico de Informática com habilidades em redes, estudante de defesa cibernética e logo mais full-stack
 ## Linguagens e Tecnologias:
 
@@ -19,3 +19,4 @@ Meu nome é Célio Nora Junior, Sou Técnico de Informática com habilidades em 
     <a href="https://www.linkedin.com/in/celionorajr/" target="_blank" title="My LinkedIn">LinkedIn</a>
   </li>
 </ul>
+](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png
