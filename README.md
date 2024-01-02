@@ -1,5 +1,6 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
-Meu nome é Célio Nora Junior, Sou Técnico de Informática com habilidades em redes, estudante de defesa cibernética e logo mais full-stack
+
+Meu nome é Célio Nora Junior. Sou Técnico de Informática com habilidades em redes. Atualmente, sou estudante de defesa cibernética e também estou estudando Java.
 
 ## Linguagens e Tecnologias:
 <div>
