@@ -1,9 +1,7 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 Meu nome é Célio Nora Junior, Sou Técnico de Informática com habilidades em redes, estudante de defesa cibernética e logo mais full-stack
 ## Linguagens e Tecnologias:
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"/>]()
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux" />
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git" />
 <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
