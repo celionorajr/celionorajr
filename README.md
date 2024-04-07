@@ -6,19 +6,19 @@ Técnico em Informática | Especialista em Redes | Defesa Cibernética
 
 ## Habilidades:
 
-Redes de computadores (configuração, segurança, administração)
-Cabeamento estruturado
-Protocolos de rede (TCP/IP, DNS, DHCP)
-Roteadores e switches
-Firewalls e VPNs
-Solução de problemas de rede
-Java (programação orientada a objetos)
+* **Redes de computadores (configuração, segurança, administração)**
+    * Cabeamento estruturado
+    * Protocolos de rede (TCP/IP, DNS, DHCP)
+    * Roteadores e switches
+    * Firewalls e VPNs
+    * Solução de problemas de rede
+* **Java (programação orientada a objetos)**
 
 ## Formação:
 
 Tecnólogo em Defesa Cibernética
 
-Interesses:
+## Interesses:
 
 Segurança da informação
 Programação
