@@ -16,13 +16,13 @@ Técnico em Informática | Especialista em Redes | Defesa Cibernética
 
 ## Formação:
 
-Tecnólogo em Defesa Cibernética
+* **Tecnólogo em Defesa Cibernética
 
 ## Interesses:
 
-Segurança da informação
-Programação
-Novas tecnologias
+* **Segurança da informação
+* **Programação
+* **Novas tecnologias
 
 ## Linguagens e Tecnologias:
 <div>
@@ -34,7 +34,7 @@ Novas tecnologias
     <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" style="display: inline-block;" />
 </div>
 
-Conecte-se comigo:
+## Conecte-se comigo:
 
 <ul>
     <li>
