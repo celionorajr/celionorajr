@@ -38,11 +38,11 @@ Conecte-se comigo:
 <ul>
     <li>
         <img src="https://img.icons8.com/ios-glyphs/90/twitterx--v2.png" width="18" alt="Twitter" style="display: inline-block;"> 
-        <a href="https://twitter.com/ocelionora" target="_blank" title="My Twitter">Twitter</a>
+        <a href="https://twitter.com/celio_nora" target="_blank" title="My Twitter">Twitter</a>
     </li>
     <li>
         <img src="https://img.icons8.com/ios-glyphs/60/linkedin.png" width="18" alt="Linkedin" style="display: inline-block;"> 
-        <a href="https://www.linkedin.com/in/celionorajr/" target="_blank" title="My LinkedIn">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/celionorajunior/" target="_blank" title="My LinkedIn">LinkedIn</a>
     </li>
 </ul>
 
