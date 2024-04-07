@@ -2,7 +2,7 @@
 
 ## Célio Nora Junior
 
-Técnico em Informática | Especialista em Redes | Defesa Cibernética
+* **Técnico em Informática | Especialista em Redes | Defesa Cibernética**
 
 ## Habilidades:
 
@@ -16,13 +16,13 @@ Técnico em Informática | Especialista em Redes | Defesa Cibernética
 
 ## Formação:
 
-* **Tecnólogo em Defesa Cibernética
+* **Tecnólogo em Defesa Cibernética**
 
 ## Interesses:
 
-* **Segurança da informação
-* **Programação
-* **Novas tecnologias
+* **Segurança da informação**
+* **Programação**
+* **Novas tecnologias**
 
 ## Linguagens e Tecnologias:
 <div>
